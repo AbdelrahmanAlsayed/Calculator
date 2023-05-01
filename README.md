@@ -4,7 +4,6 @@
 - Basic arithmetic operations: Addition, subtraction, multiplication, and division.
 - Parentheses support: Use of parentheses to group operations and control order of operations.
 - Decimal point support: Input of decimal numbers for more precise calculations.
-- 
 - Clear and delete buttons: Clear input or delete last character entered or even Delete all.
 - Standard order of operations (PEMDAS) is followed.
 - No keyboard support .. So it's only through buttons.
